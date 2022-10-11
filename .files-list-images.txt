@@ -1,0 +1,2 @@
+uboot,./u-boot-nodtb.bin
+uboot,./u-boot.dtb
